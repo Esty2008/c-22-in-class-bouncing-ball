@@ -1,2 +1,2 @@
-# c-22-in-class-bouncing-ball
-ball bounce
+# p5.play-boilerplate
+Boiler plate for p5.play
